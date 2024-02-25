@@ -1,0 +1,91 @@
+body {
+
+background-color: black
+
+}
+
+h1 {
+
+font-size: 25px; color:yellow
+}
+
+p {
+
+color:yellow;
+
+font-size:25px;
+
+}
+
+ul {
+
+    color:yellow;
+    
+    font-size:25px;
+    
+    }
+ol {
+
+    color:yellow;
+        
+    font-size:25px;
+        
+    }
+
+
+.hov {
+
+    height: 200px; 
+    width: 200px;
+    background-color: blue;
+}
+.hov:hover {
+
+    background-color: red;
+    
+}
+
+
+.lombardi.webp {
+
+    text-align: center;
+
+    width:20px ;
+
+    height: 50px;
+}
+
+h2{
+
+    color:yellow;
+
+    font: Arial Italic;
+
+}
+h3{
+    
+    color:yellow;
+
+    font: arial bold;
+
+
+}
+
+
+.franco{
+
+    width: 200px;
+}
+
+#logo {
+
+    align-items: right;
+}
+table {
+
+    color:yellow;
+}
+form{
+
+    color:yellow;
+}
